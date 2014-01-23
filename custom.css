@@ -6,7 +6,7 @@ p, div {
 }
 
 body > .container {
-  background: url(/img/cream_dust_85.png) repeat 0 0;
+  background: url(./img/cream_dust_85.png) repeat 0 0;
 }
 
 .jumbotron h1 {
