@@ -9,14 +9,23 @@ body > .container {
   background: url(./img/cream_dust_85.png) repeat 0 0;
 }
 
-.jumbotron h1 {
-  color: #fefefe;
-  font-weight: 700;
-  letter-spacing: .05rem;
-  text-shadow:
-    1px 1px 1px #bbb;
-  text-transform: uppercase;
-}
+.jumbotron { background: transparent; }
+
+  .jumbotron h1 {
+    color: #fefefe;
+    font-weight: 700;
+    letter-spacing: .05rem;
+    text-shadow: 1px 1px 1px #bbb;
+    text-transform: uppercase;
+  }
+
+  .jumbotron .btn {
+    font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
+    font-size: 20px;
+    padding: 14px 24px;
+  }
+
+    .jumbotron .btn:first-child { margin-right: 14px; }
 
 /* Space out content a bit */
 body > .container {
@@ -62,16 +71,6 @@ body > .container {
 }
 
 /* Main marketing message and sign up button */
-.jumbotron {
-  /*background-color: rgba(23,23,23,0.35);*/
-  /*text-align: center;*/
-  /*border-bottom: 1px solid #e5e5e5;*/
-  background: transparent;
-}
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
-}
 
 /* Supporting marketing content */
 .marketing {
