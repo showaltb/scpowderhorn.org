@@ -51,6 +51,8 @@ h2 {
   text-shadow: 1px 1px 1px #333;
 }
 
+.container { background-color: rgba(254,254,254,0.75); }
+
 .col-sm-4 { text-align: center; }
 
 /* Space out content a bit
@@ -122,8 +124,8 @@ body > .container {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
-    padding-bottom: 124px;
-    padding-top: 104px;
+    padding-bottom: 148px;
+    padding-top: 128px;
   }
   body > .container {
     margin-top: 40px;
