@@ -122,7 +122,8 @@ body > .container {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
-    padding-bottom: 68px;
+    padding-bottom: 96px;
+    padding-top: 76px;
   }
   body > .container {
     margin-top: 40px;
