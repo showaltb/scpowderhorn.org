@@ -2,7 +2,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Droid Serif', Baskerville, Georgia, serif;
 }
 p, div {
-  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 body > .container {
@@ -10,13 +10,14 @@ body > .container {
 }
 
 .jumbotron h1 {
-  color: #ddd;
+  color: #fefefe;
   text-shadow:
     1px 0px 1px #ccc,
     0px 1px 1px #bbb,
     2px 1px 1px #ccc,
     1px 2px 1px #bbb,
     3px 2px 1px #ccc;
+  text-transform: uppercase;
 }
 
 /* Space out content a bit */
