@@ -11,13 +11,16 @@ body > .container {
 
 .navbar { margin-bottom: 0; }
 
-.jumbotron { background: transparent; }
+.jumbotron { background-color: rgba(23,23,23,0.23); }
 
   .jumbotron h1 {
     color: #fefefe;
     font-weight: 700;
     letter-spacing: .05rem;
-    text-shadow: 1px 1px 1px #bbb;
+    text-shadow:
+      1px 0px 1px #bbb,
+      0px 1px 1px #aaa,
+      2px 1px 1px #bbb;
     text-transform: uppercase;
   }
 
