@@ -41,7 +41,14 @@ body > .container {
   padding: 0 15px;
 }
 
-  .container-full h2 { margin: 0 auto 10px; padding: 20px 0 5px; text-align: center; }
+  .container-full h2 {
+    border-bottom: 2px solid #257;
+    font-size: 36px;
+    margin: 0 auto 10px;
+    max-width: 1170px;
+    padding: 20px 0 5px;
+    text-align: center;
+  }
 
 /* Space out content a bit */
 body > .container {
