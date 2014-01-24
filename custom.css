@@ -11,16 +11,11 @@ body > .container {
 
 .jumbotron h1 {
   color: #fefefe;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: .05rem;
   text-shadow:
-    1px 0px 1px #bbb,
-    0px 1px 1px #aaa,
-    2px 1px 1px #bbb,
-    1px 2px 1px #aaa,
-    3px 2px 1px #bbb;
+    1px 1px 1px #bbb;
   text-transform: uppercase;
-  -webkit-text-stroke: 1px;
 }
 
 /* Space out content a bit */
@@ -68,8 +63,8 @@ body > .container {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  background-color: rgba(23,23,23,0.8);
-  text-align: center;
+  background-color: rgba(23,23,23,0.35);
+  /*text-align: center;*/
   /*border-bottom: 1px solid #e5e5e5;*/
   /*background: transparent;*/
 }
