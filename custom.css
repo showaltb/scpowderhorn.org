@@ -21,6 +21,7 @@ body > .container {
     1px 2px 1px #aaa,
     3px 2px 1px #bbb;
   text-transform: uppercase;
+  -webkit-text-stroke: 1px;
 }
 
 /* Space out content a bit */
