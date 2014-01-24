@@ -42,14 +42,12 @@ body > .container {
 }
 
   .container-full h2 {
-    border-bottom: 2px solid #E3522F;
-    border-top: 2px solid #E3522F;
+    color: #ddd;
     font-size: 48px;
-    margin: 48px auto;
-    max-width: 360px;
-    padding: 14px 0;
+    margin: 0 auto 48px;
+    padding: 24px 0;
     text-align: center;
-    text-shadow: 1px 1px 1px #111;
+    text-shadow: 1px 1px 1px #333;
   }
 
 .col-sm-4 { text-align: center; }
