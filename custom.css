@@ -9,6 +9,8 @@ body > .container {
   background: url(./img/cream_dust_85.png) repeat 0 0;
 }
 
+.jumbotron { background-color: rgba(23,23,23,0.8); }
+
 .jumbotron h1 {
   color: #fefefe;
   text-shadow:
