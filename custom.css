@@ -14,13 +14,13 @@ body > .container {
 .jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
 
   .jumbotron h1 {
-    color: #fefefe;
+    color: #ddd;
     font-weight: 700;
     letter-spacing: .05rem;
     text-shadow:
-      1px 0px 1px #bbb,
-      0px 1px 1px #aaa,
-      2px 1px 1px #bbb;
+      1px 0px 1px #aaa,
+      0px 1px 1px #999,
+      2px 1px 1px #aaa;
     text-transform: uppercase;
   }
 
