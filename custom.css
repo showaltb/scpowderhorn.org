@@ -63,7 +63,7 @@ body > .container {
 
 /* Main marketing message and sign up button */
 .jumbotron {
-  background-color: rgba(23,23,23,0.35);
+  /*background-color: rgba(23,23,23,0.35);*/
   /*text-align: center;*/
   /*border-bottom: 1px solid #e5e5e5;*/
   /*background: transparent;*/
