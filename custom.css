@@ -9,8 +9,6 @@ body > .container {
   background: url(./img/cream_dust_85.png) repeat 0 0;
 }
 
-/*.jumbotron { background-color: rgba(23,23,23,0.8); }*/
-
 .jumbotron h1 {
   color: #fefefe;
   font-weight: 900;
@@ -70,9 +68,10 @@ body > .container {
 
 /* Main marketing message and sign up button */
 .jumbotron {
+  background-color: rgba(23,23,23,0.8);
   text-align: center;
   /*border-bottom: 1px solid #e5e5e5;*/
-  background: transparent;
+  /*background: transparent;*/
 }
 .jumbotron .btn {
   font-size: 21px;
