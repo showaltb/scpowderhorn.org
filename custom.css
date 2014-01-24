@@ -34,7 +34,7 @@ body > .container {
 
     .jumbotron .btn:nth-of-type(1) { margin-right: 24px; }
 
-.container-full { padding: 0 15px;}
+.container-full { margin: 0 auto; padding: 0 15px;}
 
 /* Space out content a bit */
 body > .container {
