@@ -11,7 +11,7 @@ body > .container {
 
 .navbar { margin-bottom: 0; }
 
-.jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; padding-bottom: 20px; }
+.jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
 
   .jumbotron h1 {
     color: #fefefe;
@@ -34,7 +34,14 @@ body > .container {
 
     .jumbotron .btn:nth-of-type(1) { margin-right: 24px; }
 
-.container-full { background-color: rgba(221,221,221,0.85); margin: 0 auto; padding: 0 15px; }
+.container-full {
+  background-color: rgba(221,221,221,0.85);
+  border-top: 1px solid #333;
+  margin: 0;
+  padding: 0 15px;
+}
+
+  .container-full h2 { margin: 0 auto 10px; padding: 20px 0 5px; text-align: center; }
 
 /* Space out content a bit */
 body > .container {
