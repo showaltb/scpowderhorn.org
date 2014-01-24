@@ -52,6 +52,8 @@ body > .container {
     text-shadow: 1px 1px 1px #111;
   }
 
+.col-sm-4 { text-align center; }
+
 /* Space out content a bit */
 body > .container {
   padding-top: 20px;
