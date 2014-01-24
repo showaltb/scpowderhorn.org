@@ -14,7 +14,7 @@ body > .container {
 .jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
 
   .jumbotron h1 {
-    color: #ddd;
+    color: #fefefe;
     font-weight: 700;
     letter-spacing: .05rem;
     text-shadow:
