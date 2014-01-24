@@ -52,7 +52,7 @@ body > .container {
     text-shadow: 1px 1px 1px #111;
   }
 
-.col-sm-4 p { text-align center; }
+.well { text-align center; }
 
 /* Space out content a bit */
 body > .container {
