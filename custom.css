@@ -11,7 +11,7 @@ body > .container {
 
 .navbar { margin-bottom: 0; }
 
-.jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; padding-bottom: 68px; }
+.jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
 
   .jumbotron h1 {
     color: #fefefe;
@@ -122,6 +122,7 @@ body > .container {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    padding-bottom: 68px;
   }
   body > .container {
     margin-top: 40px;
