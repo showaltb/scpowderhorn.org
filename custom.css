@@ -9,6 +9,8 @@ body > .container {
   background: url(./img/cream_dust_85.png) repeat 0 0;
 }
 
+.navbar { margin-bottom: 0; }
+
 .jumbotron { background: transparent; }
 
   .jumbotron h1 {
