@@ -49,6 +49,7 @@ body > .container {
     padding: 24px 0;
     text-align: center;
     text-shadow: 1px 1px 1px #333;
+    width: 100%;
   }
 
 .col-sm-4 { text-align: center; }
