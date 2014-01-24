@@ -15,11 +15,11 @@ body > .container {
   color: #fefefe;
   font-weight: 900;
   text-shadow:
-    1px 0px 1px #ccc,
-    0px 1px 1px #bbb,
-    2px 1px 1px #ccc,
-    1px 2px 1px #bbb,
-    3px 2px 1px #ccc;
+    1px 0px 1px #bbb,
+    0px 1px 1px #aaa,
+    2px 1px 1px #bbb,
+    1px 2px 1px #aaa,
+    3px 2px 1px #bbb;
   text-transform: uppercase;
 }
 
