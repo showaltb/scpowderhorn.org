@@ -38,7 +38,7 @@ body > .container {
   background-color: rgba(221,221,221,0.94);
   border-top: 1px solid #333;
   margin: 0;
-  padding: 0 15px;
+  padding: 0;
 }
 
   .container-full h2 {
@@ -46,7 +46,7 @@ body > .container {
     color: #ddd;
     font-size: 48px;
     margin: 0 auto 48px;
-    padding: 24px 15px;
+    padding: 24px 0;
     text-align: center;
     text-shadow: 1px 1px 1px #333;
   }
