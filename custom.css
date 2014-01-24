@@ -23,6 +23,7 @@ body > .container {
     font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
     font-size: 20px;
     padding: 14px 24px;
+    text-transform: uppercase;
   }
 
     .jumbotron .btn:first-child { margin-right: 14px; }
