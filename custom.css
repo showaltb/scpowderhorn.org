@@ -55,9 +55,9 @@ h2 {
 
   .dates p { margin-bottom: 14px; }
 
-  .dates p:first-child { margin-top: 28px; }
+  .dates p:first-child { margin-top: 56px; }
 
-  .dates p:last-child { margin-bottom: 28px; }
+  .dates p:last-child { margin-bottom: 56px; }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
