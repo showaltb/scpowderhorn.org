@@ -77,6 +77,7 @@ p, div {
     .btn-brochure {
       background-color: #e3522f;
       border-color: #cf4b2b;
+      text-transform: uppercase;
     }
       .btn-brochure:hover,.btn-brochure:focus,.btn-brochure:active { background-color: #cf4b2b; border-color: #bd4427; }
 /* } .jumbotron */
