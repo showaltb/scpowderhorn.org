@@ -49,14 +49,13 @@ h2 {
 }
 
 /* .dates { */
-.dates {
-  font-size: 28px;
-  font-weight: 500;
-  line-height: 1.5;
-  text-align: center;
-}
+.dates { text-align: center; }
 
-  .dates p { margin-bottom: 14px; }
+  .dates p {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 14px;
+  }
 
     .dates p:first-child { margin-top: 56px; }
 
