@@ -22,14 +22,24 @@ p, div {
   }
 
   .jumbotron .btn {
+    color: #fefefe;
     font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
     font-size: 20px;
     margin-top: 10px;
     padding: 14px 24px;
     text-transform: uppercase;
   }
+  
+    .btn-overview {
+      background-color: #34cf7a;
+      border-color: #29a360;
+      margin-right: 24px;
+    }
 
-    .jumbotron .btn:nth-of-type(1) { margin-right: 24px; }
+    .btn-brochure {
+      background-color: #e3522f;
+      border-color: #cf4b2b;
+    }
 /* } .jumbotron */
 
 .container-full {
