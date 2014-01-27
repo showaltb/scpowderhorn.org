@@ -123,7 +123,9 @@ p {
 
 .list-group-item { background-color: #fefefe; font-size: 18px; line-height: 1.5; }
 
-.registration .list-group-item { font-size: 20px; text-align: center; }
+.registration .container-full > .container { text-align: center; }
+
+.registration .list-group-item { font-size: 20px; }
 
 address { font-size: 20px; text-align: center; }
 
