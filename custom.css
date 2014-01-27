@@ -125,6 +125,7 @@ footer {
   footer .nav-pills > li > a:focus {
     background-color: #fefefe;
     color: #257;
+    text-decoration: none;
   }
 
   footer .nav-pills > li.active > a,
@@ -132,6 +133,7 @@ footer {
   footer .nav-pills > li.active > a:focus {
     background-color: #257;
     color: #fefefe;
+    text-decoration: none;
   }
 /* } footer */
 
