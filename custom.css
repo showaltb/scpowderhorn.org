@@ -92,7 +92,7 @@ p {
   line-height: 1.5;
 }
 
-.list-group-item { font-size: 18px; line-height: 1.5; }
+.list-group-item { background-color: #fefefe; font-size: 18px; line-height: 1.5; }
 
 /* footer { */
 footer {
