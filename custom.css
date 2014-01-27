@@ -29,17 +29,19 @@ p, div {
     padding: 14px 24px;
     text-transform: uppercase;
   }
-  
+
     .btn-overview {
       background-color: #34cf7a;
       border-color: #29a360;
       margin-right: 24px;
     }
+      .btn-overview:hover,.btn-overview:focus { background-color: #29a360; border-color: #238a51; }
 
     .btn-brochure {
       background-color: #e3522f;
       border-color: #cf4b2b;
     }
+      .btn-brochure:hover,.btn-brochure:focus { background-color: #cf4b2b; border-color: #bd4427; }
 /* } .jumbotron */
 
 .container-full {
@@ -63,13 +65,13 @@ h2 {
 
   .dates p {
     font-size: 28px;
-    font-weight: 500;
+    font-weight: 400;
     margin-bottom: 14px;
   }
 
     .dates p:first-child { margin-top: 56px; }
 
-    .dates p:last-child { font-size: 20px; font-weight: 400; margin-bottom: 56px; }
+    .dates p:last-child { font-size: 20px; font-weight: 300; margin-bottom: 56px; }
 /* } .dates */
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
