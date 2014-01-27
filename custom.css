@@ -16,7 +16,7 @@ p, div {
   .navbar-default .navbar-nav > li > a { color: #fefefe; }
 
   .navbar-default .navbar-nav > li > a:hover,
-  .navbar-default .navbar-nav > li > a:focus { text-decoration: underline; }
+  .navbar-default .navbar-nav > li > a:focus { color: #fefefe; text-decoration: underline; }
 
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover,
