@@ -125,6 +125,8 @@ p {
 .responsive-map {
   height: 0;
   overflow: hidden;
+  padding-bottom: 75%;
+  padding-top: 30px;
   position: relative;
 }
 
