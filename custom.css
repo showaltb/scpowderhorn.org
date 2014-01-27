@@ -74,6 +74,28 @@ h2 {
     .dates p:last-child { font-size: 20px; font-weight: 300; margin-bottom: 56px; }
 /* } .dates */
 
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
