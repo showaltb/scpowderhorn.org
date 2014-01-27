@@ -7,6 +7,7 @@ p, div {
 
 .navbar { margin-bottom: 0; }
 
+/* .jumbotron { */
 .jumbotron { background-color: rgba(23,23,23,0.35); margin-bottom: 0; }
 
   .jumbotron h1 {
@@ -29,6 +30,7 @@ p, div {
   }
 
     .jumbotron .btn:nth-of-type(1) { margin-right: 24px; }
+/* } .jumbotron */
 
 .container-full {
   background-color: rgba(254,254,254,0.75);
@@ -46,7 +48,7 @@ h2 {
   text-shadow: 1px 1px 1px #333;
 }
 
-/*.dates {*/
+/* .dates { */
 .dates {
   font-size: 28px;
   font-weight: 500;
@@ -58,8 +60,8 @@ h2 {
 
     .dates p:first-child { margin-top: 56px; }
 
-    .dates p:last-child { font-size: 20px; margin-bottom: 56px; }
-/*} .dates*/
+    .dates p:last-child { font-size: 20px; font-weight: 400; margin-bottom: 56px; }
+/* } .dates */
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
