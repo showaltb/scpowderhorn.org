@@ -121,6 +121,23 @@ p {
   line-height: 1.5;
 }
 
+/* attempt at making gmaps responsive... */
+.responsive-map {
+  height: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.responsive-map embed,
+.responsive-map iframe,
+.responsive-map object {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
 .list-group-item { background-color: #fefefe; font-size: 18px; line-height: 1.5; }
 
 .registration .container-full > .container { text-align: center; }
