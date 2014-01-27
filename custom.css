@@ -58,7 +58,7 @@ p, div {
     text-transform: uppercase;
   }
 
-  .jumbotron .btn {
+  .btn {
     color: #fefefe;
     font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
     font-size: 20px;
@@ -122,6 +122,8 @@ p {
 }
 
 .list-group-item { background-color: #fefefe; font-size: 18px; line-height: 1.5; }
+
+.registration 
 
 /* footer { */
 footer {
