@@ -13,10 +13,10 @@ p, div {
 
   .navbar-brand { color: #fefefe; font-weight: 700; }
 
-  .navbar-default .navbar-nav > li > a { color: #fefefe; }
+  .navbar-default .navbar-nav > li > a { color: #fefefe; text-decoration: underline; }
 
   .navbar-default .navbar-nav > li > a:hover,
-  .navbar-default .navbar-nav > li > a:focus { color: #fefefe; text-decoration: underline; }
+  .navbar-default .navbar-nav > li > a:focus { background-color: #fefefe; color: #257; text-decoration: none; }
 
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover,
