@@ -7,6 +7,8 @@ p, div {
 
 .navbar { background-color: rgba(254,254,254,0.95); margin-bottom: 0; }
 
+  .navbar-brand { font-weight: 700; }
+
 /* .jumbotron { */
 .jumbotron { background-color: rgba(23,23,23,0.4); margin-bottom: 0; }
 
@@ -105,7 +107,7 @@ footer {
   footer em { font-weight: 300; }
 
   footer a, footer .gc-cs-link { color: #34cf4a; text-decoration: none; }
-  
+
   footer a:hover, footer a:active { color: #34cf4a; text-decoration: underline; }
 
   footer .nav-pills > li > a:hover,
