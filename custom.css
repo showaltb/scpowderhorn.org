@@ -119,6 +119,8 @@ footer {
 
   footer a:hover, footer a:active { color: #34cf7a; text-decoration: underline; }
 
+  footer .nav-pills > li > a { color: #fefefe; text-decoration: underline; }
+
   footer .nav-pills > li > a:hover,
   footer .nav-pills > li > a:focus {
     background-color: #fefefe;
