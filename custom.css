@@ -35,13 +35,13 @@ p, div {
       border-color: #29a360;
       margin-right: 24px;
     }
-      .btn-overview:hover,.btn-overview:focus { background-color: #29a360; border-color: #238a51; }
+      .btn-overview:hover,.btn-overview:focus,.btn-overview:active { background-color: #29a360; border-color: #238a51; }
 
     .btn-brochure {
       background-color: #e3522f;
       border-color: #cf4b2b;
     }
-      .btn-brochure:hover,.btn-brochure:focus { background-color: #cf4b2b; border-color: #bd4427; }
+      .btn-brochure:hover,.btn-brochure:focus,.btn-brochure:active { background-color: #cf4b2b; border-color: #bd4427; }
 /* } .jumbotron */
 
 .container-full {
