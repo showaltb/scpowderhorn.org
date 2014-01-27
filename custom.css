@@ -9,6 +9,8 @@ p, div {
   background: url(./img/cream_dust_85.png) repeat 0 0;
 }*/
 
+body > .container { background-color: rgba(254,254,254,0.75);}
+
 .navbar { margin-bottom: 0; }
 
 .jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
