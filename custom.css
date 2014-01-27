@@ -5,7 +5,7 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
-.navbar { background-color: rgba(254,254,254,0.95); margin-bottom: 0; }
+.navbar { background-color: rgba(254,254,254,0.95); border-bottom: none; margin-bottom: 0; }
 
   .navbar-brand { font-weight: 700; }
 
@@ -105,7 +105,7 @@ footer {
     font-weight: 700;
     line-height: 1.5;
     margin: 0 auto 14px;
-    text-shadow: 1px 1px 1px #29a360;
+    text-shadow: 1px 1px 1px #238a51;
     text-transform: uppercase;
   }
 
