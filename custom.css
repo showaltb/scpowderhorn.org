@@ -127,14 +127,13 @@ p {
 
 .registration .list-group-item { font-size: 20px; }
 
-footer .container-full > .container { text-align: left; }
-
 address { font-size: 24px; text-align: center; }
 
 /* footer { */
 footer {
   background-color: #333;
   color: #fefefe;
+  text-align: left !important;
 }
 
   footer .container-full { background-color: transparent; }
