@@ -127,7 +127,7 @@ p {
 
 .registration .list-group-item { font-size: 20px; }
 
-.registration footer .container-full > .container { text-align: left; }
+footer .container-full > .container { text-align: left; }
 
 address { font-size: 24px; text-align: center; }
 
