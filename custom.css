@@ -5,9 +5,18 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
-.navbar { background-color: rgba(254,254,254,0.95); border-bottom: none; margin-bottom: 0; }
+.navbar {
+  background-color: #257;
+  border-bottom: none;
+  margin-bottom: 0;
+}
 
-  .navbar-brand { font-weight: 700; }
+  .navbar-brand { color: #fefefe; font-weight: 700; }
+
+  .navbar-default .navbar-nav > li > a { color: #fefefe; }
+
+  .navbar-default .navbar-nav > li > a:hover,
+  .navbar-default .navbar-nav > li > a:focus { text-decoration: underline; }
 
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover,
