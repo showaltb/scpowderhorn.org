@@ -5,7 +5,7 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
-.navbar { background-color: rgba(254,254,254,0.75); margin-bottom: 0; }
+.navbar { background-color: rgba(254,254,254,0.95); margin-bottom: 0; }
 
 /* .jumbotron { */
 .jumbotron { background-color: rgba(23,23,23,0.4); margin-bottom: 0; }
@@ -103,6 +103,21 @@ footer {
   footer p { font-size: 16px; font-weight: 400; }
 
   footer em { font-weight: 300; }
+
+  footer a { color: #34cf4a; text-decoration: none; }
+
+  footer .nav-pills > li > a:hover,
+  footer .nav-pills > li > a:focus {
+    background-color: #fefefe;
+    color: #333;
+  }
+
+  footer .nav-pills > li.active > a,
+  footer .nav-pills > li.active > a:hover,
+  footer .nav-pills > li.active > a:focus {
+    background-color: #34cf7a;
+    color: #fefefe;
+  }
 /* } footer */
 
 
