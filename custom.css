@@ -46,12 +46,16 @@ h2 {
   text-shadow: 1px 1px 1px #333;
 }
 
-  .dates {
-    font-size: 28px;
-    font-weight: 500;
-    line-height: 1.5;
-    text-align: center;
-  }
+.dates {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+}
+
+  .dates p { margin-bottom: 14px; }
+
+  .dates p:first-child { margin-top: 14px; }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
