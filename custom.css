@@ -5,15 +5,9 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
-/*body > .container {
-  background: url(./img/cream_dust_85.png) repeat 0 0;
-}*/
-
-/*body > .container { background-color: rgba(254,254,254,0.75); padding: 0 15px; }*/
-
 .navbar { margin-bottom: 0; }
 
-.jumbotron { background-color: rgba(23,23,23,0.23); margin-bottom: 0; }
+.jumbotron { background-color: rgba(23,23,23,0.35); margin-bottom: 0; }
 
   .jumbotron h1 {
     color: #fefefe;
@@ -46,19 +40,13 @@ h2 {
   background-color: #257;
   color: #fefefe;
   font-size: 48px;
-  margin: 0 auto 48px;
-  padding: 24px 0;
+  margin: 0 auto;
+  padding: 28px 0;
   text-align: center;
   text-shadow: 1px 1px 1px #333;
 }
 
 .col-sm-4 { text-align: center; }
-
-/* Space out content a bit
-body > .container {
-  padding-top: 20px;
-  padding-bottom: 20px;
-} */
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
