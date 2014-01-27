@@ -92,6 +92,8 @@ p {
   line-height: 1.5;
 }
 
+.list-group-item { font-size: 18px; line-height: 1.5; }
+
 /* footer { */
 footer {
   background-color: #333;
