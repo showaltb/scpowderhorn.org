@@ -74,8 +74,12 @@ h2 {
     .dates p:last-child { font-size: 20px; font-weight: 300; margin-bottom: 56px; }
 /* } .dates */
 
+body > .container {
+  padding: 56px 0;
+}
+
 p {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5;
 }
 
