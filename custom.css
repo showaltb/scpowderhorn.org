@@ -9,6 +9,13 @@ p, div {
 
   .navbar-brand { font-weight: 700; }
 
+  .navbar-default .navbar-nav > .active > a,
+  .navbar-default .navbar-nav > .active > a:hover,
+  .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #34cf7a;
+    color: #fefefe;
+  }
+
 /* .jumbotron { */
 .jumbotron { background-color: rgba(23,23,23,0.4); margin-bottom: 0; }
 
@@ -106,9 +113,9 @@ footer {
 
   footer em { font-weight: 300; }
 
-  footer a, footer .gc-cs-link { color: #34cf4a; text-decoration: none; }
+  footer a, footer .gc-cs-link { color: #34cf7a; text-decoration: none; }
 
-  footer a:hover, footer a:active { color: #34cf4a; text-decoration: underline; }
+  footer a:hover, footer a:active { color: #34cf7a; text-decoration: underline; }
 
   footer .nav-pills > li > a:hover,
   footer .nav-pills > li > a:focus {
