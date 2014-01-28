@@ -203,12 +203,6 @@ footer {
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
-  /*.header,
-  .marketing,
-  .footer {
-    padding-left: 0;
-    padding-right: 0;
-  }
   /* Space out the masthead */
   .header {
     margin-bottom: 30px;
