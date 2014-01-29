@@ -55,7 +55,7 @@ p, div {
       1px 0px 1px #aaa,
       0px 1px 1px #999,
       2px 1px 1px #aaa;
-    text-transform: uppercase;
+    text-transform: capitalize;
   }
 
   .btn {
@@ -172,7 +172,7 @@ footer {
     line-height: 1.5;
     margin: 0 auto 14px;
     text-shadow: 1px 1px 1px #238a51;
-    text-transform: uppercase;
+    text-transform: capitalize;
   }
 
   footer p { font-size: 16px; font-weight: 400; }
