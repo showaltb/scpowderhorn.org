@@ -278,3 +278,7 @@ footer {
     margin: 0;
     text-align: center;
   }
+
+  .printable p {
+    font-size: 20px;
+  }
