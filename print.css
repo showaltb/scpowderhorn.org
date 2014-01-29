@@ -27,6 +27,10 @@ body { background: #dcdcdc; }
     text-shadow: none;
   }
 
+  .page li {
+    font-size: 20px;
+  }
+
 @media print {
   header { display: none; }
 }
