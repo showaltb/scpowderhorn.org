@@ -96,6 +96,7 @@ p, div {
     padding: 28px 0 0;
     text-align: center;
     text-shadow: 1px 1px 1px #29a360;
+    text-transform: capitalize;
   }
 /* } .container-full */
 
