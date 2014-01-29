@@ -248,3 +248,15 @@ footer {
 
   .container-full h1:first-child { padding-top: 56px; }
 }
+
+/* ======================================================== */
+/*                                                          */
+/*                       Print Styles                       */
+/*                                                          */
+/* ======================================================== */
+
+.printable {
+  background-color: #fefefe;
+  border: 1px solid #333;
+  box-shadow: 2px 6px 10px #333;
+}
