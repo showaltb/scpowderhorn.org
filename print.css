@@ -4,6 +4,24 @@ body { background: #dcdcdc; }
   background: #fefefe;
   box-shadow: 0px 2px 6px #777;
   margin: 28px auto 0;
-  padding: 28px 56px;
-  max-width: 1170px;
+  padding: 28px 42px;
+  max-width: 960px;
 }
+
+  .page h1,
+  .page h2 {
+    color: #333;
+    line-height: 1;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .page h1 {
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  .page h2 {
+    font-size: 24px;
+    font-weight: 400;
+  }
