@@ -11,7 +11,7 @@ body { background: #dcdcdc; }
   .page h1,
   .page h2 {
     color: #333;
-    line-height: 1;
+    line-height: 1.2;
     margin: 0 auto;
     text-align: center;
   }
@@ -24,4 +24,5 @@ body { background: #dcdcdc; }
   .page h2 {
     font-size: 24px;
     font-weight: 400;
+    text-shadow: none;
   }
