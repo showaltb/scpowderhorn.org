@@ -151,6 +151,8 @@ p {
   line-height: 1.5;
 }
 
+ul li { font-size: 18px; }
+
 /* make gmaps responsive */
 .responsive-map {
   height: 0;
