@@ -292,6 +292,8 @@ footer {
   .container,
   .row { display: none; }
 
+  body { background: #fff; color: #000; }
+
   .printable { display: block; }
 
   @page {
