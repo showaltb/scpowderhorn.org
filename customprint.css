@@ -290,7 +290,9 @@ footer {
   footer,
   .container-full,
   .container,
-  .row { display:none; }
+  .row { display: none; }
+
+  .printable { display: block; }
 
   @page {
     margin: 1.5in;
