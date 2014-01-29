@@ -258,7 +258,7 @@ footer {
 .printable {
   background-color: #fefefe;
   box-shadow: 0px 2px 6px #333;
-  padding: 24px;
+  padding: 0 56px;
 }
 
   .printable h2 {
@@ -285,6 +285,12 @@ footer {
   }
 
 @media print {
+
+  header,
+  footer,
+  .container-full,
+  .container,
+  .row { display:none; }
 
   @page {
     margin: 1.5in;
