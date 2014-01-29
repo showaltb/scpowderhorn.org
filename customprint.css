@@ -290,7 +290,7 @@ footer {
   footer,
   .container-full { display: none; }
 
-  body { background: #fff !important; color: #000; }
+  body { background-image: #fff !important; color: #000; }
 
   .print-this { background: none; display: block; margin: 0; padding: 0; }
 
