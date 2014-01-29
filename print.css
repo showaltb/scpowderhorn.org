@@ -28,7 +28,5 @@ body { background: #dcdcdc; }
   }
 
 @media print {
-  header {
-    display: none;
-  }
+  header { display: none; }
 }
