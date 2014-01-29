@@ -98,7 +98,7 @@ h2 {
   text-shadow: 1px 1px 1px #146;
 }
 
-  body + h2 { margin-top: 56px; }
+h2:first-child { padding-top: 56px; }
 
 /* .dates { */
 .dates { text-align: center; }
