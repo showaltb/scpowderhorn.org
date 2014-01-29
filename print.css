@@ -4,7 +4,7 @@ body { background: #dcdcdc; }
   background: #fefefe;
   box-shadow: 0px 2px 6px #777;
   margin: 28px auto 0;
-  padding: 28px 42px;
+  padding: 56px 42px;
   max-width: 960px;
 }
 
@@ -27,9 +27,9 @@ body { background: #dcdcdc; }
     text-shadow: none;
   }
 
-  .page li {
-    font-size: 20px;
-  }
+  .page p { text-align: center; }
+
+  .page li { font-size: 20px; }
 
 @media print {
   header { display: none; }
