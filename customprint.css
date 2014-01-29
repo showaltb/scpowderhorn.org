@@ -5,6 +5,8 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
+body { background: none !important; }
+
 /* .navbar { */
 .navbar {
   background-color: #257;
