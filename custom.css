@@ -234,8 +234,8 @@ footer {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
-    padding-bottom: 124px;
-    padding-top: 104px;
+    padding-bottom: 156px;
+    padding-top: 136px;
   }
   body > .container {
     margin-top: 40px;
