@@ -93,10 +93,12 @@ h2 {
   color: #257;
   font-size: 48px;
   margin: 0 auto;
-  padding: 28px 0;
+  padding: 0;
   text-align: center;
   text-shadow: 1px 1px 1px #146;
 }
+
+  h2:first-child { padding-top: 56px; }
 
 /* .dates { */
 .dates { text-align: center; }
