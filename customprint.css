@@ -261,11 +261,13 @@ footer {
 }
 
   .printable h1 {
+    color: #333;
     font-size: 28px;
     text-align: center;
   }
 
   .printable h2 {
+    color: #333;
     font-size: 24px;
     text-align: center;
   }
