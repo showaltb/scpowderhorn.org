@@ -151,7 +151,9 @@ p {
   line-height: 1.5;
 }
 
-ul li { font-size: 18px; }
+ul li { font-size: 18px; margin-bottom: 9px; }
+
+  ul li:last-child { margin-bottom: 0; }
 
 /* make gmaps responsive */
 .responsive-map {
