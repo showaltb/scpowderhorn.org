@@ -26,3 +26,9 @@ body { background: #dcdcdc; }
     font-weight: 400;
     text-shadow: none;
   }
+
+@media print {
+  header {
+    display: none;
+  }
+}
