@@ -288,13 +288,11 @@ footer {
 
   header,
   footer,
-  .container-full,
-  .container,
-  .row { display: none; }
+  .container-full { display: none; }
 
   body { background: #fff; color: #000; }
 
-  .printable { display: block; }
+  .print-this { display: block; }
 
   @page {
     margin: 1.5in;
