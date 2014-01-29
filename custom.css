@@ -89,13 +89,13 @@ p, div {
 }
 
 h2 {
-  background-color: #257;
-  color: #fefefe;
+  background-color: rgba(254,254,254,0.75);
+  color: #257;
   font-size: 48px;
   margin: 0 auto;
   padding: 28px 0;
   text-align: center;
-  text-shadow: 1px 1px 1px #333;
+  text-shadow: 1px 1px 1px #146;
 }
 
 /* .dates { */
