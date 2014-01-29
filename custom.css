@@ -82,12 +82,23 @@ p, div {
       .btn-brochure:hover,.btn-brochure:focus,.btn-brochure:active { background-color: #cf4b2b; border-color: #bd4427; }
 /* } .jumbotron */
 
+/* { .container-full */
 .container-full {
   background-color: rgba(254,254,254,0.75);
   margin: 0 auto;
   padding: 0 15px;
 }
 
+  .container-full h1:first-child {
+    color: #34cf7a;
+    margin: 0 auto;
+    padding: 28px 0 0;
+    text-align: center;
+    text-shadow: 1px 1px 1px #29a360;
+  }
+/* } .container-full */
+
+/* h2 { */
 h2 {
   background-color: rgba(254,254,254,0.75);
   color: #257;
@@ -98,7 +109,8 @@ h2 {
   text-shadow: 1px 1px 1px #146;
 }
 
-h2.first { padding-top: 56px; }
+  h2.first { padding-top: 56px; }
+/* } h2 */
 
 /* .dates { */
 .dates { text-align: center; }
