@@ -44,6 +44,10 @@
       width: 375px;
     }
 
+      .smaller { width: 250px; }
+
+      .smallest { width: 125px; }
+
   .container-full { background: none; margin-top: 18px; }
 
 @media print {
