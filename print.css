@@ -54,7 +54,7 @@
 
 @media print {
 
-  @page { margin: 1in; }
+  @page { margin: 0.75 1in; }
 
   header, .container-full { display: none; }
 
@@ -79,9 +79,9 @@
 
   .page li span { width: 425px; }
 
-    .smaller { width: 300px; }
+    .smaller { width: 265px; }
 
-    .smallest { width: 150px; }
+    .smallest { width: 125px; }
 
     .first { width: 375px; }
 
