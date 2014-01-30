@@ -24,9 +24,11 @@
   .page h2 {
     font-size: 24px;
     font-weight: 400;
-    margin: 10px auto 28px;
+    margin: 10px auto 14px;
     text-shadow: none;
   }
+
+    .page h2:last-child { margin-top: 28px; }
 
   .page p { text-align: center; }
 
@@ -63,7 +65,9 @@
 
   .page h1 { font-size: 24px; }
 
-  .page h2 { font-size: 18px; margin: 10px auto 28px; }
+  .page h2 { font-size: 18px; margin: 10px auto 14px; }
+
+    .page h2:last-child { margin-top: 28px }
 
   .page p, .page li { font-size: 12px; }
 
