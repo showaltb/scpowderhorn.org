@@ -48,6 +48,8 @@
 
       .smallest { width: 125px; }
 
+  .address { border: 1px solid #333; margin: 14px auto; width: 50%; }
+
   .container-full { background: none; margin-top: 18px; }
 
 @media print {
@@ -75,4 +77,5 @@
 
   .page p, .page li { font-size: 14px; }
 
+  .address { border-color: #000; }
 }
