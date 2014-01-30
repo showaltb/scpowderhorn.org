@@ -54,7 +54,7 @@
 
 @media print {
 
-  @page { margin: 1in; }
+  @page { margin: 0.5in 1in; }
 
   header, .container-full { display: none; }
 
