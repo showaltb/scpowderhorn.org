@@ -29,13 +29,23 @@
 
   .page p { text-align: center; }
 
-  .page li { font-size: 20px; }
+  .page li {
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+
+    li span {
+      border-bottom: 1px solid #333;
+      display: inline-block;
+      height: 20px;
+      width: 200px;
+    }
 
   .container-full { background: none; margin-top: 18px; }
 
 @media print {
 
-  @page { margin: 1in; }
+  @page { margin: 1.5in; }
 
   header, .container-full { display: none; }
 
@@ -52,7 +62,7 @@
 
   .page h1 { font-size: 20px; }
 
-  .page h2 { font-size: 16px; }
+  .page h2 { font-size: 16px; margin-top: 10px; }
 
   .page p, .page li { font-size: 12px; }
 
