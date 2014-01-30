@@ -182,7 +182,7 @@ p + ul li { font-size: 18px; margin-bottom: 9px; }
 
 .registration .list-group-item { font-size: 20px; }
 
-.contactpage p { text-align: center; }
+.contactpage .col-sm-3 p { text-align: center; }
 
 address { font-size: 24px; text-align: center; }
 
