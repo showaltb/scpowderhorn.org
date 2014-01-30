@@ -1,0 +1,13 @@
+/* TEAM */
+	
+	Web Designer: Bobby Showalter
+	Twitter: @bobbyshowalter
+	From: Knoxville, TN
+	Web: http://bshow.co
+
+/* SITE */
+
+	Last update: 2014/01/30
+	Language: English
+	Doctype: HTML5
+	IDE: SublimeText2
