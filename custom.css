@@ -78,6 +78,8 @@ p, div {
     text-transform: uppercase;
   }
 
+  .modal-footer .btn { color: #333; }
+  
     .btn-overview {
       background-color: #34cf7a;
       border-color: #29a360;
