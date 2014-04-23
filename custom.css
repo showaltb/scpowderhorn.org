@@ -5,6 +5,10 @@ p, div {
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
 }
 
+.modal { overflow-y: auto; }
+
+.modal-open { overflow: auto; }
+
 /* .navbar { */
 .navbar {
   background-color: #257;
