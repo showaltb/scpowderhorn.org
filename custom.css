@@ -186,7 +186,7 @@ p + ul li { font-size: 18px; margin-bottom: 9px; }
 
 address { font-size: 24px; text-align: center; }
 
-.container.img-gallery { padding: 56px 0 72px; }
+.container.img-gallery { padding: 56px 0 128px; }
 
 /* footer { */
 footer {
