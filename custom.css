@@ -125,6 +125,10 @@ p, div {
   }
 /* } .container-full */
 
+.container#fitVidsWrapper {
+  padding-top: 0;
+}
+
 /* h2 { */
 h2 {
   background-color: rgba(254,254,254,0.75);
